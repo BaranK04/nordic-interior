@@ -1,0 +1,6 @@
+{
+  "name": "Nordic Interior",
+  "description": "Premium Scandinavian interior design agency in Bergen, Norway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
